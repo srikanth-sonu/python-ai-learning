@@ -1,29 +1,65 @@
-# Python Learning 🚀
+# 🐍 Python AI Learning
 
-Welcome to my Python learning journey!
+Welcome to my Python learning journey.
 
-## Goal
+## 🎯 Goal
 
-Learn Python from **Basics to Master** by building a real-world Healthcare Management System.
+Become proficient in Python and build a strong foundation for:
 
-## Topics
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Deep Learning (DL)
+- Data Analysis
+- Automation
 
-- Python Fundamentals
+## 📚 Learning Roadmap
+
+### Phase 1 - Python Fundamentals
+
+- Python Basics
 - Variables
 - Data Types
 - Operators
-- Conditions
+- Conditional Statements
 - Loops
 - Functions
 - Collections
 - File Handling
-- OOP
+- Object-Oriented Programming
 - Exception Handling
 - Modules
-- APIs
-- Database
-- Flask / FastAPI
 
-## Project
+### Phase 2 - Python for Data
 
-Healthcare Management System
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+### Phase 3 - Machine Learning
+
+- Scikit-learn
+- Regression
+- Classification
+- Clustering
+
+### Phase 4 - Deep Learning
+
+- TensorFlow
+- PyTorch
+- Neural Networks
+
+### Phase 5 - AI Projects
+
+- Data Processing
+- Machine Learning Projects
+- AI Applications
+- LLM Experiments
+
+## 🚀 Repository Purpose
+
+This repository documents my complete journey from Python beginner to AI/ML developer through hands-on coding, projects, and consistent Git commits.
+
+---
+
+Learning one commit at a time.

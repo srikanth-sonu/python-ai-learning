@@ -20,7 +20,7 @@ for student in distinction_students:
     print(f"{student['name']} - {student['marks']}")
 print("-" * 20)
 failed_students = [student for student in students if student["marks"] < 35]
-print("Failed Students and thier marks\n")
+print("Failed Students and their marks\n")
 for student in failed_students:
     print(f"{student['name']} - {student['marks']}")
 print("-" * 20)
